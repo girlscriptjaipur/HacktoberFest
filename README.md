@@ -1,2 +1,2 @@
-# HacktoberFest
-Repo is For hacktoberfest
+# Algorithms
+Repo for Algorithms
